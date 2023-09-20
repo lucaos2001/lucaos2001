@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Carvalho</h1>
 <h3 align="center">A passionate web development student from Brazil</h3>
 
-- 🌱 I’m currently learning **about Python, Databases, Operational systems, and about web development.**
+- 🌱 I’m currently learning **about Python, Databases, Operational systems, and about web development and english**
 
 - 👨‍💻 All of my projects are available at (i will add my portfolio link later, cause i will create him)😂
 
