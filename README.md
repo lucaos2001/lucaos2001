@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Python, Databases, Operational systems, and about web development and english.**
 
-- 👨‍💻 All of my projects are available at (i will add my portfolio link later, cause i will create him)😂
+- 👨‍💻 All of my projects are available here. (i will add my portfolio link later, cause i will create him)😂
 
 - 📫 How to reach me **https://www.linkedin.com/in/lucas-carvalho-05148b274/**
 
